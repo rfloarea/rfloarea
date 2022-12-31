@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @rfloarea
-- 👀 I’m interested in learning and building stuff
-- 🌱 I’m currently learning about coding and building things that do stuff
-- 💞️ I’m looking to collaborate on coding stuff
-- 📫 How to reach me: not sure yet
+- 👀 I like to learn and learn how to learn.
+- 🌱 I’m currently learning how to code and learning how to learn how to code.
+- 📫 How to reach me: not sure yet, we're looking into it
 
 <!---
 rfloarea/rfloarea is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
