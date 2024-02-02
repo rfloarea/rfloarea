@@ -13,7 +13,7 @@ i'm using this space to basically turn my mind inside out for strangers on the i
 
 ---
 
-There's this little square of a markdown file on my desktop that says:
+There's this little square of an open txt file on my desktop that says:
 
 ```
 let i = beginner;
