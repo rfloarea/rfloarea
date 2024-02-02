@@ -11,7 +11,7 @@ i'm using this space to basically turn my mind inside out for strangers on the i
 5. i don't like to perform "normal". it's draining, exhausting, existentially troubling, and all together just really sucks. also i'm way more fun to be around when i can feel comfortable being myself. it's a win win.
 6. life has been lucky and granted me many second chances, space for mistakes, and social priviledges that continue to shape my life. i believe it is without a doubt a responsibility of folks with relative sociopolitical power to do stuff that distributes that power, to use that power as a shield or a weapon or safeharbor or in ways that are still being imagined. i am still being imagined.
 
-
+---
 
 There's this little square of a markdown file on my desktop that says:
 
@@ -26,7 +26,3 @@ while (i < master) {
 ```
 
 I think it has something to do with the path I'm currently on.
-
-Diving into web development with every foot I have has been daunting and exhilarating. So much learning. So much coding. So much...well, not much sharing actually.
-
-Which is why this is here!
