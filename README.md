@@ -1,10 +1,15 @@
 # a letter to my comrades
 
-do you ever feel like you have nothing interesting to say as soon as you need to say something interesting?
+*do you ever feel like you have nothing to say as soon as you need to say something? i'll just say what i need to say*
 
-there's this idea that has rooted in me. it goes:
+---
 
-|> people need other people
+there's this idea that has rooted in me. 
+
+it goes:
+```
+people need other people
+```
 
 simple, right? obvious even. i like to get curious about obvious things.
 
