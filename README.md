@@ -1,4 +1,4 @@
-# a letter to my comrades
+# A Letter to My Comrades
 
 *Do you ever feel like you have nothing to say as soon as you feel the need to say something? I guess I'll just say what I need to say.*
 
