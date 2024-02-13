@@ -16,7 +16,7 @@ I think of this phrase a lot. I think of the ways I tend to need and be needed b
 
 ## This is what I've learning so far
 
-Collective liberation is possible. We are the only one who can liberate ourselves and eachother from capitalism, white supremacy, and colonialism. I believe the work of shaping new realities is rooted in honoring our shared belonging to each other, to oursleves, and the entire global ecosystem.
+Collective liberation is possible. We are the only ones who can liberate ourselves and eachother from capitalism, white supremacy, and colonialism. I believe the work of shaping new realities is rooted in honoring our shared belonging to each other, to oursleves, and the entire global ecosystem.
 
 People needing other people is a feature of community. It is a feature of liberation. It's is a verb. And we all verb in different ways. Coding is one (new) way that I verb towards collective liberation. Learning how to wield information technologies towards collective liberation has ignited my imagination and consumed by actions.
 
