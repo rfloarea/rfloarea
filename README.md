@@ -14,7 +14,7 @@ Simple, right? Obvious even. Since it's obvious, I've needed to get curious abou
 
 I think of this phrase a lot. I think of the ways I tend to need and be needed by other people. And I think about how this work, this coding thing, can be another way I can practice and explore this little axiom.
 
-## This is what I've learning so far
+## This is what I've learned so far
 
 Collective liberation is possible. We are the only ones who can liberate ourselves and eachother from capitalism, white supremacy, and colonialism. I believe the work of shaping new realities is rooted in honoring our shared belonging to each other, to oursleves, and the entire global ecosystem.
 
