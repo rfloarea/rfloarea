@@ -15,5 +15,6 @@ My email is: rowen.floarea@proton.me
 ### Projects In Progress
 [dappcord](https://github.com/rfloarea/dappcord)
 - This project is a guided learning experience to get my hands working with smart contracts and dapps.
+
 [isalwayslearning](https://github.com/rfloarea/isalwayslearning)
 - Not only is this my catchcy catchline, but it's an evolving record of my learning "stuff". It's young and subject to radical changes. But it's super fun to share stuff. So yeah, it's a blog I guess.
