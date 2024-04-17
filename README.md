@@ -12,7 +12,7 @@ My email is: rowen.floarea@proton.me
 
 ---
 
-### Projects In Progress
+### Recent Projects
 [dappcord](https://github.com/rfloarea/dappcord)
 - This project is a guided learning experience to get my hands working with smart contracts and dapps.
 
