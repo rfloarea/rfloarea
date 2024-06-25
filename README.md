@@ -1,9 +1,11 @@
 # Hey there!
 
-My name is Rowen. I also go by Roe.
+Making things is my joy. It's like oranges and the ocean and laughter.
 
-Learning is my jam. It tastes like blueberries, peach, and fun!
+Learning is my jam. It tastes like blueberries, peach, and toast!
 
-This is where I host all my code things. I basically consider everything to be a work in progress. I hope you don't mind! 
+I basically consider everything to be a work in progress. I hope you don't mind! 
 
 Let me know what you think of anything you see. I really do love feedback.
+
+hi@treeroe.me
