@@ -1,11 +1,10 @@
 # Hey there!
 
-Making things is my joy. It's like oranges and the ocean and laughter.
+Making things is my joy. Learning is my jam.
 
-Learning is my jam. It tastes like blueberries, peach, and toast!
+I enjoy helping make the web work for people. This can look like building personal websites, web apps, or weird creative projects!
 
-I basically consider everything to be a work in progress. I hope you don't mind! 
+If you want to collaborate or chat about something interesting, send me a message at rowen.floarea@proton.me
 
-Let me know what you think of anything you see. I really do love feedback.
-
-hi@treeroe.me
+Take care!
+~ rowen
