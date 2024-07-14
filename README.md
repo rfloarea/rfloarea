@@ -7,4 +7,4 @@ I enjoy helping make the web work for people. This can look like building person
 If you want to collaborate or chat about something interesting, send me a message at hi@treeroe.me
 
 Take care!
-~ rowen
+~ roe
