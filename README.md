@@ -17,9 +17,10 @@ Well, all I can say right now is, in pursuit of understanding how these machines
 - better reading comprehension
 - more willingness to face difficulties and setbacks
 - improved creative problem solving skills
+
 In short, a greater attunment to experience itself.
 
-But also, there's a whole shift in worldview that comes too. I've noticed how I take language/concepts from programming and use it to describe and make sense of things happening in my everyday life. Which is sorta wild! How come I can use concepts like concurrency and orthaginality while cooking dinner for my family? Maybe all this stuff has very little to do with computers at all. Maybe it's like that saying about computer science and telescopes. Something like, "computer science is no more about computers than astronomy is about telescopes". Maybe what we're doing here has much more to do with our relationships and inner experiences than with hardware and networks. Maybe computing is just one big metaphor. 
+But also, there's a whole shift in worldview that comes too. I've noticed how I take language/concepts from programming and use it to describe and make sense of things happening in my everyday life. Which is sorta wild! How come I can use concepts like concurrency and orthogonality while cooking dinner for my family? Maybe all this stuff has very little to do with computers at all. Maybe it's like that saying about computer science and telescopes. Something like, "computer science is no more about computers than astronomy is about telescopes". Maybe what we're doing here has much more to do with our relationships and inner experiences than with hardware and networks. Maybe computing is just one big metaphor. 
 
 If you want to collaborate or chat, send me a message at hi@treeroe.me
 
